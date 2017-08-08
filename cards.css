@@ -1,0 +1,9 @@
+.cardClass{
+  border: 2px solid black;
+  height:300px;
+  width: 28%;
+  margin: 1%;
+  float: left;
+  text-align: center;
+  text-overflow: wrap;
+}
